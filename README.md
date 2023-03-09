@@ -29,4 +29,4 @@ delete - Delete a shoe from inventory
 There are already some shoes in the inventory.
 To delete them edit the .txt file and delete the shoes.
 
-![Screenshot](assets/images/screenshot.png)
+![Screenshot](assets/images/Screenshot.png)
